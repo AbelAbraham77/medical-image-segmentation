@@ -19,7 +19,7 @@ This project demonstrates the use of a pre-trained U-Net model for medical image
 
 ## File Structure
 
-- `Medical_Image_Segmentation.ipynb` – Main Jupyter notebook with step-by-step implementation
+- `Medical_Image_Segmentation.py` – Python file with step-by-step implementation
 - `README.md` – Project overview and instructions
 
 ## Getting Started
