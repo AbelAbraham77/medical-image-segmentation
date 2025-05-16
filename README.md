@@ -54,7 +54,7 @@ The model successfully segments anatomical features from test images, demonstrat
 ## Credits
 
 - U-Net architecture: Olaf Ronneberger et al., "U-Net: Convolutional Networks for Biomedical Image Segmentation"
-- PyTorch: https://pytorch.org/
+- CognitiveClass.ai
 
 ## License
 
