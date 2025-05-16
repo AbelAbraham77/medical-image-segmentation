@@ -33,15 +33,15 @@ This project demonstrates the use of a pre-trained U-Net model for medical image
 
 ## Requirements
 
-numpy==1.23.5
-pandas==2.2.2
-matplotlib==3.9.0
-opencv-python-headless==4.10.0.82
-torch==2.3.1
-torchvision==0.18.1
-scikit-image==0.24.0
-nibabel==5.2.1
-scikit-learn
+- numpy==1.23.5
+- pandas==2.2.2
+- matplotlib==3.9.0
+- opencv-python-headless==4.10.0.82
+- torch==2.3.1
+- torchvision==0.18.1
+- scikit-image==0.24.0
+- nibabel==5.2.1
+- scikit-learn
 
 ## How it Works
 
